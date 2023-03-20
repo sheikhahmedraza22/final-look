@@ -291,9 +291,7 @@ a {
   text-align: left;
   padding: 50px;
 }
-.grid-item3 img{
-  
-}
+
 
 .grid-item3 h1 {
   margin-bottom: 40px;
@@ -484,12 +482,12 @@ a {
   font-weight: bold;
 }
 
-.col-2 {
+.colss-2 {
   display: flex;
   justify-content: center;
 }
 
-.col-3 {
+.colss-3 {
   font-size: 25px;
   font-weight: bold;
   text-align: end;
@@ -497,13 +495,13 @@ a {
   
 }
 
-.col-3 h3 {
+.colss-3 h3 {
   color: #322d41;
   font-size: 25px;
   font-weight: 500;
 }
 
-.form {
+.form-1 {
   /*width: 60%;
   /* padding: 10px 20px 10px 20px; */
   border-radius: 30px;
@@ -517,7 +515,7 @@ a {
   justify-content: end;
 }
 
-.form input {
+.form-1 input {
   padding: 24px;
   border-radius: 27px;
   width: 252px;
@@ -525,7 +523,7 @@ a {
   height: 0px;
 }
 
-.col-3 button {
+.colss-3 button {
   background-color: #322d41;
   text-decoration: none;
   color: white;
@@ -535,7 +533,7 @@ a {
   margin-left: 5px;
 }
 
-.col-3 button a {
+.colss-3 button a {
   color: white;
   text-decoration: none;
 }
